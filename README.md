@@ -7,6 +7,5 @@
 # g++ -o Classes.o -c Classes.cpp,
 <sub> </sub>
 # g++ -o program main.o Classes.o -lpigpio -lwiringPi and
-<sub> </sub>
-# sudo ./program
-<sub> </sub>
+
+<sub> # sudo ./program </sub>
