@@ -16,6 +16,8 @@
 # Project Discription
 - <sub>Innovative assistive technology called a voice-controlled wheelchair project enables people with disabilities to control a wheelchair using their voice. People who have restricted movement in their hands or arms can benefit the most from this technology, which will provide them more freedom and mobility.The project typically entails pairing a voice recognition system with a motorised wheelchair that can move, change pace, turn, and stop in response to spoken orders. A variety of devices, including microphones, microcontrollers, motors, sensors, and specially programmed software, can be used to accomplish this.</sub>
 - <sub>The system can be tailored to the user's unique requirements, such as recognising and responding to a particular user's voice or being programmed to respond to particular instructions or words that are significant to the user. Additionally, sensors can be utilised to find risks or impediments in the course of the wheelchair, giving the user feedback and assuring safety.The quality of life for people with impairments could be dramatically improved by a voice-controlled wheelchair project. It offers more freedom and mobility, as well as reducing the physical exhaustion and strain that come with using a wheelchair the old-fashioned way. This project serves as an example of how technology may be used to increase accessibility and inclusivity for individuals with disabilities.</sub>
+
+!(https://github.com/VCWheelc/Voice-Controlled-Wheelchair/blob/main/Motor%20Connection.png)
   
 # Social Media Handles
 1. <sub> https://www.instagram.com/vcwheelc/
