@@ -14,7 +14,7 @@
 - <sub> **SPH0645:** The SPH0645 is a digital MEMS (Micro-Electro-Mechanical System) microphone module that converts sound waves into digital signals using a PDM (Pulse-Density Modulation) output. It has a sensitivity of -26 dBFS and a signal-to-noise ratio of 65 dBA. The SPH0645 requires a supply voltage of 1.6 to 3.6 V and is commonly used in voice-activated applications, such as smart speakers and voice assistants. </sub>
   
 #Project Discription
-  <sub>Innovative assistive technology called a voice-controlled wheelchair project enables people with disabilities to control a wheelchair using their voice. People who have restricted movement in their hands or arms can benefit the most from this technology, which will provide them more freedom and mobility.</sub>
+- <sub>Innovative assistive technology called a voice-controlled wheelchair project enables people with disabilities to control a wheelchair using their voice. People who have restricted movement in their hands or arms can benefit the most from this technology, which will provide them more freedom and mobility.</sub>
 # Social Media Handles
 1. <sub> https://www.instagram.com/vcwheelc/
 2. <sub> https://www.tiktok.com/@vcwheelc
