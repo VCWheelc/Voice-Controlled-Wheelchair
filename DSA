@@ -1,0 +1,50 @@
+%ForwardMotion
+#include <iostream>
+#include <string>
+#include "pocketsphinx.h" // Speech-to-text
+#include "motorController.h" // Interface to control motors
+
+// Let's define a simple two wheeled wheelchair
+class WheelChair {
+    MotorController motorController;
+
+public:
+    WheelChair(): motorController(MotorController()) {}
+    
+    void moveForward() {
+        motorController.setMotors(100, 100); // set both motors to 100% power
+    }
+};
+
+// This class is responsible for speech recognition
+class VoiceController {
+    WheelChair wheelChair;
+    ps_decoder_t *ps;
+    cmd_ln_t *config;
+
+public:
+    VoiceController(): wheelChair(WheelChair()) {
+        config = cmd_ln_init(NULL, ps_args(), TRUE, NULL); // initialize the voice recognizer
+        ps = ps_init(config);
+    }
+
+    void listen() {
+        // Open microphone and start listening...
+        // The listen() function should be run in a loop in the actual implementation
+        // and it should handle continuous speech recognition with callback functions
+
+        std::string recognizedText; // This should be the output from the voice recognition
+
+        // In reality, this might be handled in a separate callback function
+        if (recognizedText == "forward") {
+            wheelChair.moveForward();
+        }
+    }
+};
+
+int main() {
+    VoiceController voiceController;
+    voiceController.listen();
+
+    return 0;
+}
