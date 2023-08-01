@@ -20,5 +20,5 @@
   
 # Social Media Handles
 1. <sub> https://www.instagram.com/vcwheelc/
-2. <sub> https://www.tiktok.com/@vcwheelc
-3. <sub>  https://www.youtube.com/@vcwheelc
+2. <sub> https://www.youtube.com/@vcwheelc
+  
