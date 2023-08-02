@@ -1,13 +1,3 @@
-# Voice-Controlled-Wheelchair
-- <sub> # The following commands are used to run the program: </sub>
-- <sub> # Command 1:
-- <sub> # g++ -o main.o -c main.cp </sub>
-- <sub> # Command 2:
-- <sub> # g++ -o Classes.o -c Classes.cpp </sub>
-- <sub> # Command 3:
-- <sub> # g++ -o program main.o Classes.o -lpigpio -lwiringPi </sub>
-- <sub> # Command 4:
-- <sub> # sudo ./program </sub>
 # Component Description
 - <sub> **L298N:** The L298N is a dual full-bridge motor driver integrated circuit that is capable of driving two DC motors or one stepper motor. It can handle a maximum voltage of 46V and a peak current of 3A per bridge. The L298N also features built-in protection circuits to prevent damage from over-temperature, over-voltage, and over-current conditions. </sub>
 - <sub> **Raspberry Pi 3 :** The Raspberry Pi 3 is a single-board computer with a quad-core ARM Cortex-A53 processor running at 1.2 GHz, 1 GB of RAM, and built-in Bluetooth and Wi-Fi connectivity. It has four USB ports, an HDMI port, an Ethernet port, and a 3.5mm audio jack for versatile connectivity. The Raspberry Pi 3 is commonly used for educational and hobbyist projects, as well as for low-power server applications. </sub>
