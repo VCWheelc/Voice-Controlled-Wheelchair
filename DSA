@@ -1,4 +1,4 @@
-%ForwardMotion
+//ForwardMotion
 #include <iostream>
 #include <string>
 #include "pocketsphinx.h" // Speech-to-text
